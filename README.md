@@ -39,7 +39,7 @@ Routing: Using React Router for navigation assuming multiple pages/routes are re
 
 
 Note: This README provides a high-level overview of the development process, technologies used, and assumptions made. Detailed implementation and code explanations can be found in the respective files of the project.
-
+ also the files are so big that i found it will be easy to upload all the folder seperatly not as it is in my folder structure i will write here my folder structure 
 
 
 
